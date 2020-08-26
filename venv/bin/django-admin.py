@@ -1,4 +1,4 @@
-#!/home/amjed/PycharmProjects/test1/venv/bin/python
+#!/home/amjed/PycharmProjects/heroku-sample-hosting/venv/bin/python
 from django.core import management
 
 if __name__ == "__main__":
